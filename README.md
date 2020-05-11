@@ -1,4 +1,5 @@
 # hello-world
 tools
 hello apple
- i have a dog and name is maomao.it's very betiful.
+ I have a dog and name is maomao.It's very betiful.
+My name is lixunchen and i am from chani.

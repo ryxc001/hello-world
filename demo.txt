@@ -1,0 +1,9 @@
+git init //初始化
+
+git add README.md //将工作文件修改提交到本地暂存区
+
+git commit -m “first commit” //提交暂存区文件
+
+git remote add origin https://github.com/mengkaimiao/document.git //关联远程仓库
+
+git push -u origin master //推送修改给远程仓库
